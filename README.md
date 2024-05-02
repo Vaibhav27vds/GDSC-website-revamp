@@ -1,2 +1,2 @@
-# GDSC-website-revamp
-New website for GDSC
+# NEXTJS + Shadcn
+New website.
